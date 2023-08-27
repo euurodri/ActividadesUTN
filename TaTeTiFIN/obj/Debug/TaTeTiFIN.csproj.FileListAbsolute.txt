@@ -1,0 +1,12 @@
+D:\repos\TaTeTiFIN\bin\Debug\TaTeTiFIN.exe.config
+D:\repos\TaTeTiFIN\bin\Debug\TaTeTiFIN.exe
+D:\repos\TaTeTiFIN\bin\Debug\TaTeTiFIN.pdb
+D:\repos\TaTeTiFIN\obj\Debug\TaTeTiFIN.csproj.AssemblyReference.cache
+D:\repos\TaTeTiFIN\obj\Debug\TaTeTiFIN.csproj.SuggestedBindingRedirects.cache
+D:\repos\TaTeTiFIN\obj\Debug\TaTeTiFIN.Form1.resources
+D:\repos\TaTeTiFIN\obj\Debug\TaTeTiFIN.Properties.Resources.resources
+D:\repos\TaTeTiFIN\obj\Debug\TaTeTiFIN.csproj.GenerateResource.cache
+D:\repos\TaTeTiFIN\obj\Debug\TaTeTiFIN.csproj.CoreCompileInputs.cache
+D:\repos\TaTeTiFIN\obj\Debug\TaTeTiFIN.exe
+D:\repos\TaTeTiFIN\obj\Debug\TaTeTiFIN.pdb
+D:\repos\TaTeTiFIN\obj\Debug\TaTeTiFIN.Tablero.resources
