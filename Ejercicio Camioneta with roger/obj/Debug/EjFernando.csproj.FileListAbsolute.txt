@@ -1,0 +1,11 @@
+D:\repos\EjFernando\bin\Debug\EjFernando.exe.config
+D:\repos\EjFernando\bin\Debug\EjFernando.exe
+D:\repos\EjFernando\bin\Debug\EjFernando.pdb
+D:\repos\EjFernando\obj\Debug\EjFernando.csproj.AssemblyReference.cache
+D:\repos\EjFernando\obj\Debug\EjFernando.csproj.SuggestedBindingRedirects.cache
+D:\repos\EjFernando\obj\Debug\EjFernando.Form1.resources
+D:\repos\EjFernando\obj\Debug\EjFernando.Properties.Resources.resources
+D:\repos\EjFernando\obj\Debug\EjFernando.csproj.GenerateResource.cache
+D:\repos\EjFernando\obj\Debug\EjFernando.csproj.CoreCompileInputs.cache
+D:\repos\EjFernando\obj\Debug\EjFernando.exe
+D:\repos\EjFernando\obj\Debug\EjFernando.pdb
