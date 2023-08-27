@@ -1,0 +1,15 @@
+D:\repos\EntregablePancho\bin\Debug\EntregablePancho.exe.config
+D:\repos\EntregablePancho\bin\Debug\EntregablePancho.exe
+D:\repos\EntregablePancho\bin\Debug\EntregablePancho.pdb
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.csproj.AssemblyReference.cache
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.csproj.SuggestedBindingRedirects.cache
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.Properties.Resources.resources
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.csproj.GenerateResource.cache
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.csproj.CoreCompileInputs.cache
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.exe
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.pdb
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.Form1.resources
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.ModalAgregarTarjeta.resources
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.BloquearTarjeta.resources
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.AgregarViajes.resources
+D:\repos\EntregablePancho\obj\Debug\EntregablePancho.VerViajes.resources
